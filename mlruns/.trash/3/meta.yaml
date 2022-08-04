@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Samrat/Desktop/mlflowdemo/mlruns/3
+experiment_id: '3'
+lifecycle_stage: active
+name: Price
